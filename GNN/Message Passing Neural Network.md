@@ -33,7 +33,7 @@ Update function은 이렇게 얻어진 message를 활용해서 다음 hidden sta
 
 ### readout phase
 
-다음으로, readout phase에서는 이렇게 우리가 얻은 hidden state를 활용해서 우리가 예측하기를 원하느 노드의 label, 그래프의 label 등을 도출한다. <br>
+다음으로, readout phase에서는 이렇게 우리가 얻은 hidden state를 활용해서 우리가 예측하기를 원하는 노드의 label, 그래프의 label 등을 도출한다. <br>
 이 hidden state를 readout function에 넣어서, 우리가 원하는 label을 도출하는 것이다.
 
 <br>
